@@ -13,7 +13,6 @@ Execution :
 Windows:
 -------
 * Run Requirements.bat file to install the required modules
-* python online_class.py
 
 Then Run pyautogui.position() to find the position of buttons
 Then open config.txt file and Enter (x,y) co-ordinates of all buttons
