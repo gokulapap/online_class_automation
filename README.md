@@ -31,6 +31,16 @@ and Enter the path of the Excel file
 
 Then Run the main file online_class.py file
 
+How it Works:
+============
+* This takes the meeting link from the given Excel sheet
+* And it opens in an webbrowser and it joins the meeting
+* Then it clicks on chaticon button
+* And it clicks the chatbox and Enters the message "Good Morning !" 
+* Then a screenshot of your screen is taken with that greeting message
+* The screenshot is for proof that you have attended the class and messaged 
+* Then it sleeps untill the class completes   # You must define your class time in seconds (Eg.1 hour = 3600s) in Code specify sleep(3600)
+
 
 
 
