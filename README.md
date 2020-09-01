@@ -17,8 +17,7 @@ Windows:
 * Run Requirements.bat file to install the required modules
 
 
-Then Run pyautogui.position() to find the position of buttons
-Then open config.txt file and Enter (x,y) co-ordinates of all buttons
+Then Run pyautogui.position() to find the position of buttons and Enter (x,y) co-ordinates of all buttons
 and Enter the path of the Excel file
 
 Then Run the main file online_class.py file
@@ -28,7 +27,7 @@ Linux:
 * Run the Requirements.sh file to install the required modules
 
 Then Run pyautogui.position() to find the position of buttons
-Then open config.txt file and Enter (x,y) co-ordinates of all buttons
+and Enter (x,y) co-ordinates of all buttons
 and Enter the path of the Excel file
 
 Then Run the main file online_class.py file
