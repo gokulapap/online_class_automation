@@ -1,3 +1,6 @@
+[path]
+path = 'Enter the path of excel file'
+
 [join]
 x = (Enter x co-ordinate of join button)
 y = (Enter y co-ordinate of join button)  # Replace this with number                      
