@@ -1,7 +1,7 @@
 # online_class_automation
 Automating the online class
 
-See this Youtube video For an explanied Video :
+Visit this Youtube link For an explained Video :
 https://youtu.be/B6I0FIwa01k 
 
 Requirements :
